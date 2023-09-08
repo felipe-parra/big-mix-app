@@ -1,0 +1,1 @@
+export { CounterComponent } from './components/CounterComponent'
